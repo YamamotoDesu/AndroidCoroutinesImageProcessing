@@ -1,5 +1,7 @@
 # AndroidCoroutinesImageProcessing
 
+![2022-08-12 15 36 19](https://user-images.githubusercontent.com/47273077/184298186-25bdd5b0-ef79-4176-9f18-c6275c5bae2f.gif)
+
 MainActivity
 ```kt
 
